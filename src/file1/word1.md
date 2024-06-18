@@ -4,3 +4,4 @@
 
 - [word3 md.md](.././file3/word3.md)
 - [summary html](../SUMMARY.html)
+- 中文
